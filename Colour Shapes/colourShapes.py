@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-img1 = cv.imread('View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg')
+img1 = cv.imread('Colour Shapes\View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg')
 if img1 is None:
     print("Error: Unable to load image. Check the file path.")
 else:
