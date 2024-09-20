@@ -5,10 +5,9 @@ This repository contains a collection of small projects developed using the Open
 ### Projects included:
 - **Basic Image Manipulation**: Resize, crop, and rotate images.
 - **Edge Detection**: Canny edge detection on various sample images.
-- **Face Detection**: Real-time face detection using Haar cascades.
 - **Color Space Conversion**: Converting images between different color spaces (e.g., RGB to grayscale).
 - **Object Tracking**: Simple object tracking using video input.
 
 ### Requirements:
 - OpenCV
-- Python 3.x
+- Python 3.12
